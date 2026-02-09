@@ -13,5 +13,5 @@ function countVowels(str)
     }
     return count;
 }
-const totalVowel = countVowels("azaan");
+const totalVowel = countVowels("azaan babu salaat sona ule baba");
 console.log(totalVowel);
